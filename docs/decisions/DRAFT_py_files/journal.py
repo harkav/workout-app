@@ -21,9 +21,16 @@ class Journal:
         for workout_sessions in self._workout_sessions: 
             workout_sessions.print_exercises()
 
+    def menu(self): 
+        pass 
+    #should display the menu and prompt the user and run methods depending on the choice 
+    # add workout... 
+    # edit workout... 
+    # and so on... 
+
 journal = Journal() 
 
-journal.add_workout_session(22021224)
+journal.add_workout_session("2022.12.24")
 journal.print_workout_sessions()
 
 
