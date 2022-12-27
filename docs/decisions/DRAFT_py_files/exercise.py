@@ -16,5 +16,6 @@ class Exercise:
     def get_weight_in_kgs(self): 
         return self._weight_in_kgs 
 
-
+    def __str__(self):
+        return self._name + " " + str(self._reps) + " " + str(self._weight_in_kgs) 
     

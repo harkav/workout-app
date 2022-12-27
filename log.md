@@ -9,10 +9,12 @@ which programming paradigm to use.
 
 ## 2022 December 27th
 
-Wrote decision file on programming paradigm and classes.
-TODO draw some kind of illustration to show how the classes will interact with each other
-TODO begin making a simpler version of the app. A simpler version of the app would perhaps be a version
-that does not support making files.
+- Wrote decision file on programming paradigm and classes.
+- Began writing draft files.
+
+- TODO draw some kind of illustration to show how the classes will interact with each other
+- TODO write a decision on testing
+.
 
 ### Problems encountered
 
