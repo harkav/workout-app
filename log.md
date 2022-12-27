@@ -11,6 +11,7 @@ which programming paradigm to use.
 
 - Wrote decision file on programming paradigm and classes.
 - Began writing draft files.
+- Got the drafts to the point where I could enter one set.
 
 - TODO draw some kind of illustration to show how the classes will interact with each other
 - TODO write a decision on testing

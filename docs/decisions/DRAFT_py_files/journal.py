@@ -25,3 +25,7 @@ journal = Journal()
 
 journal.add_workout_session(22021224)
 journal.print_workout_sessions()
+
+
+#problem, does not write time stamp, does not write id 
+# need to create a loop in the add_workout_session-function. 

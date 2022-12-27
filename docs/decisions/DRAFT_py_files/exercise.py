@@ -1,11 +1,9 @@
 class Exercise: 
 
-
     def __init__(self, name, reps, weight_in_kgs): 
         self._name = name 
         self._reps = reps 
         self._weight_in_kgs = weight_in_kgs
-
 
     def get_name(self): 
         return self._name 
