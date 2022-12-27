@@ -12,4 +12,6 @@ class Workout_session:
         exercise = Exercise(name, reps, weight_in_kgs)
         self._exercises.append(exercise)
 
-    
+    def print_exercises(self): 
+        for exercise in self._exercises: 
+            print(exercise)
